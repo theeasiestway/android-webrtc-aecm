@@ -1,5 +1,5 @@
 # android-webrtc-aecm
-Acoustic echo cancellation for android, based on webrtc aecm algorithms
+An acoustic echo cancellation for android, based on webrtc aecm algorithms
 
 The repository based on [this](https://github.com/lhc180/webrtc-based-android-aecm) repository.
 
